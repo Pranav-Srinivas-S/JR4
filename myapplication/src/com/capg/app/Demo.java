@@ -8,6 +8,9 @@ public class Demo {
 		System.out.println("Code modified");
 		System.out.println("hii guys");
 		
+		System.out.println("Updated Code");
+		System.out.println("Thank you");
+		
 	}
 
 }
